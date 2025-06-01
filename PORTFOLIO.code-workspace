@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "PORTFOLIO",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../Pictures/img"
+		}
+	],
+	"settings": {}
+}
